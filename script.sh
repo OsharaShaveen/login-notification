@@ -1,6 +1,6 @@
 #!/bin/bash
-USERID="<YOUR-ID>"
-KEY="<API-KEY-OF-YOUR-BOT>" TIMEOUT="10"
+USERID="2033145618"
+KEY="5016171401:AAE4Eu35eFpoWBiNHJNt2HKjY96pHSWlSew" TIMEOUT="10"
 if [ "$PAM_TYPE" = "close_session" ]; then
   WHAT="out"
 else
